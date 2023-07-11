@@ -1,53 +1,88 @@
-nav{width: 1920px;
+nav {
+    width: 1920px;
     height: 850px;
     flex-shrink: 0;
-     ;
-     
+    ;
+
 }
-.nav-title{
+
+.nav-title {
     width: 1000px;
     flex-direction: column;
     flex-shrink: 0;
     color: #272727;
-font-family: Lato;
-font-size: 100px;
+    font-family: Lato;
+    font-size: 100px;
 
-font-weight: 800;
+    font-weight: 800;
 
-    
+
 
 }
-.button-design{
+
+.button-design {
     border-radius: 8px;
-   background: #E55473;
-   color: #FFF;
-font-family: Lato;
-font-size: 20px;
+    background: #E55473;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
 
-font-weight: 700;
+    font-weight: 700;
 
-padding:20px 30px 20px 30px;
+    padding: 20px 30px 20px 30px;
 
 }
-.header{
+
+.header {
     background-color: #fff8f3;
 }
 
 
 
 
-.banner{display:flex;
+.banner {
+    display: flex;
     align-items: center;
-    justify-content:100px ;
-    padding:50px 240px
+    justify-content: 100px;
+    padding: 50px 240px
+}
+
+.banner .red-flower {
+    width: 500px;
+    height: 700px;
+    background-position: center;
+
+}
+
+.banner.para-class {
+    margin-left: 10px;
+}
+
+.fetured {
+    text-align: center;
+}
+
+.fetured-flowers {
+    display: flex;
+    width: 1920px;
+    height: 4867px;
     
 }
-.banner .red-flower {
-    width:500px;
-    height:700px;
-    background-position:center;
-  
+
+.pink {
+    width: 310px;
+    height: 428px;
+    flex-shrink:0;
+    
 }
-.banner.para-class{
-    margin-left: 10px;
+
+.red {
+    width: 370px;
+    height: 370px;
+    flex-shrink: 0;
+}
+.yellow{width: 314px;
+    height: 471px;
+    flex-shrink: 0;
+
 }
