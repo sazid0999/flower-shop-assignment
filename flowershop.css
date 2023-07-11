@@ -102,10 +102,14 @@ nav {
 .pink-color{
     color:#E55473
 }
-.hot-deal{text-align: center;}
-.hot-para{text-align: center;}
-.sign-up{
-    
+.hot-deal-section{
+    display:flex;
+    justify-content: space-around;
+
 }
+.hot-section{
+    background-color: #E55473;
+}
+.instagram{text-align: center;}
 
 
