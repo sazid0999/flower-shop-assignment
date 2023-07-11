@@ -1,0 +1,28 @@
+nav{
+     
+}
+.nav-title{display: flex;
+    width: 708px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+    
+
+}
+.button-design{
+    border-radius: 8px;
+   background: #E55473;
+   color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding:20px 30px 20px 30px;
+
+}
