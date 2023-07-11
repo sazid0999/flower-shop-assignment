@@ -60,6 +60,7 @@ nav {
 
 .fetured {
     text-align: center;
+    margin:auto;
 }
 
 .fetured-flowers {
@@ -96,3 +97,5 @@ nav {
     background: rgba(71, 125, 17, 0.15);
 
 }
+
+
