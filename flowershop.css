@@ -64,25 +64,35 @@ nav {
 
 .fetured-flowers {
     display: flex;
-    width: 1920px;
-    height: 4867px;
-    
+    width: 2000px;
+    height: 4000px;
+    justify-content: center;
+
+
 }
 
 .pink {
-    width: 310px;
-    height: 428px;
-    flex-shrink:0;
-    
+    width: 300px;
+    height: 400px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+
 }
 
 .red {
-    width: 370px;
-    height: 370px;
+    width: 300px;
+    height: 400px;
     flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
 }
-.yellow{width: 314px;
-    height: 471px;
+
+.yellow {
+    width: 300px;
+    height: 400px;
     flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
 
 }
