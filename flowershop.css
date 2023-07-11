@@ -65,9 +65,11 @@ nav {
 
 .fetured-flowers {
     display: flex;
-    width: 2000px;
-    height: 4000px;
+    width: 1000px;
+    height: 1500px;
     justify-content: center;
+    align-items: center;
+    margin-left: 590px;
 
 
 }
@@ -96,6 +98,14 @@ nav {
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
 
+}
+.pink-color{
+    color:#E55473
+}
+.hot-deal{text-align: center;}
+.hot-para{text-align: center;}
+.sign-up{
+    
 }
 
 
