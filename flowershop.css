@@ -1,13 +1,16 @@
-nav{
+nav{width: 1920px;
+    height: 850px;
+    flex-shrink: 0;
+     ;
      
 }
-.nav-title{display: flex;
-    width: 708px;
+.nav-title{
+    width: 1000px;
     flex-direction: column;
     flex-shrink: 0;
     color: #272727;
 font-family: Lato;
-font-size: 80px;
+font-size: 100Spx;
 font-style: normal;
 font-weight: 800;
 line-height: normal;
@@ -25,4 +28,20 @@ font-weight: 700;
 line-height: normal;
 padding:20px 30px 20px 30px;
 
+}
+.header{
+    background-color: #fff8f3;
+}
+
+
+
+
+.banner{display:flex;
+    align-items: center;
+    justify-content:100px ;
+    gap: 20px;
+}
+.banner .red-flower {
+    width:500px;
+    height:700px; 
 }
