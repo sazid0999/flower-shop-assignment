@@ -10,10 +10,10 @@ nav{width: 1920px;
     flex-shrink: 0;
     color: #272727;
 font-family: Lato;
-font-size: 100Spx;
-font-style: normal;
+font-size: 100px;
+
 font-weight: 800;
-line-height: normal;
+
     
 
 }
@@ -23,9 +23,9 @@ line-height: normal;
    color: #FFF;
 font-family: Lato;
 font-size: 20px;
-font-style: normal;
+
 font-weight: 700;
-line-height: normal;
+
 padding:20px 30px 20px 30px;
 
 }
@@ -39,9 +39,15 @@ padding:20px 30px 20px 30px;
 .banner{display:flex;
     align-items: center;
     justify-content:100px ;
-    gap: 20px;
+    padding:50px 240px
+    
 }
 .banner .red-flower {
     width:500px;
-    height:700px; 
+    height:700px;
+    background-position:center;
+  
+}
+.banner.para-class{
+    margin-left: 10px;
 }
