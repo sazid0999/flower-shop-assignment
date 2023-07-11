@@ -111,5 +111,9 @@ nav {
     background-color: #E55473;
 }
 .instagram{text-align: center;}
+.insta-pictures{display:flex}
+.subscribe{
+    padding: 400px;
+}
 
 
