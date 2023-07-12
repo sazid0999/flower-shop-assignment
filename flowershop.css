@@ -113,7 +113,9 @@ nav {
 .instagram{text-align: center;}
 .insta-pictures{display:flex}
 .subscribe{
-    padding: 400px;
+    padding: 600px;
+    border-radius: 10px;
+    background-image: url(Flower Asset/Rectangle 9.png);
 }
 
 
