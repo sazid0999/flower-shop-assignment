@@ -117,5 +117,36 @@ nav {
     border-radius: 10px;
     background-image: url(Flower Asset/Rectangle 9.png);
 }
+.last-part{text-align: center;
+background:  #111010;
+width: 1922px;
+height: 449px;
+flex-shrink: 0;}
+.last-title{color:#E55473;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;}
+.last-p{color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;}
+    .copyright{
+        color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+    }
+    .shop{
+        color:#FFF
+    }
+
 
 
